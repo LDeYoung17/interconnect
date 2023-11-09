@@ -1,4 +1,4 @@
-# interconnect
+# Customer Churn and Retention Predictions
 
 <h2>Summary</h2>
 
